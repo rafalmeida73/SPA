@@ -27,55 +27,55 @@ function Reasons() {
       <Row className="container">
         <div className="col s12 m6 l6 reason">
           <div className="col s3 m2 l2 imgReason">
-            <img class="responsive-img" src={Unlimited} alt="" />
+            <img className="responsive-img" src={Unlimited} alt="" />
           </div>
           <div className="col s9 m9 l9">
-            <h4>Sla</h4>
+            <h4>Jogos Ilimitados</h4>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+            Nós disponibilizamos diversos jogos com as notícias do momento, estatística, melhores lugares para a compra e mais!
             </p>
           </div>
         </div>
 
         <div className="col s12 m6 l6 reason">
           <div className="col s3 m2 l2 imgReason">
-            <img class="responsive-img" src={Responsive} alt="" />
+            <img className="responsive-img" src={Responsive} alt="" />
           </div>
           <div className="col s9 m9 l9">
-            <h4>Sla</h4>
+            <h4>Site responsivo</h4>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+              Você pode acessar o site por qualquer plataforma como Android, Ios, Tablet, Desktop, entre outros.
             </p>
           </div>
         </div>
 
         <div className="col s12 m6 l6 reason">
           <div className="col s3 m2 l2 imgReason">
-            <img class="responsive-img" src={Chat} alt="" />
+            <img className="responsive-img" src={Chat} alt="" />
           </div>
           <div className="col s9 m9 l9">
-            <h4>Sla</h4>
+            <h4>Dar sua opnião</h4>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+              Você pode dar o seu feedback sobre o jogo com uma determinada nota. Ajudando assim, outros usuários a saber se o jogo é legal. 
             </p>
           </div>
         </div>
 
         <div className="col s12 m6 l6 reason">
           <div className="col s3 m2 l2 imgReason">
-            <img class="responsive-img" src={Support} alt="" />
+            <img className="responsive-img" src={Support} alt="" />
           </div>
           <div className="col s9 m9 l9">
-            <h4>Sla</h4>
+            <h4>Suporte</h4>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+              Nossa equipe de moderadores está disponível para responder mensagens via e-mail e resolver o problema mais rápido possível. 
             </p>
           </div>
         </div>
       </Row>
       <div className="col s12 m12 l12">
         <center>
-          <h4>Tem perguntas?</h4>
+          <h4>Alguma pergunta?</h4>
           <Link smooth to="#contact">
             <Button
               waves="light"
