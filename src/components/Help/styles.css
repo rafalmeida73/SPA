@@ -1,0 +1,47 @@
+.helpBlock {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.helpBlock h4 {
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 60px;
+}
+
+.cardHelp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px 0;
+  margin: 30px 0;
+  border-radius: 20px;
+  border: 2px solid var(--color-secondary);
+  margin-bottom: 150px;
+}
+
+.cardHelp img {
+  width: 60px;
+  height: 60px;
+}
+
+.cardHelp h3 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.cardHelp p {
+  font-size: 1.3rem;
+}
+
+@media (min-width: 1100px) {
+  .helpBlock {
+    height: 100vh;
+  }
+
+  .cardHelp h3 {
+    font-size: 2.5rem;
+  }
+}
