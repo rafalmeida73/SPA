@@ -25,9 +25,10 @@ function Reasons() {
     <div data-aos='fade-right' className="reasonsBlock" id="reasons">
       <h3>Essa são as razões para usar o Broken Out</h3>
       <Row className="container">
+
         <div className="col s12 m6 l6 reason">
-          <div className="col s3 m2 l2 imgReason">
-            <img className="responsive-img" src={Unlimited} alt="" />
+          <div className="col s3 m3 l2 imgReason">
+            <img className="responsive-img" src={Unlimited} alt="Jogos Ilimitados" />
           </div>
           <div className="col s9 m9 l9">
             <h4>Jogos Ilimitados</h4>
@@ -38,8 +39,8 @@ function Reasons() {
         </div>
 
         <div className="col s12 m6 l6 reason">
-          <div className="col s3 m2 l2 imgReason">
-            <img className="responsive-img" src={Responsive} alt="" />
+          <div className="col s3 m3 l2 imgReason">
+            <img className="responsive-img" src={Responsive} alt="Site responsivo" />
           </div>
           <div className="col s9 m9 l9">
             <h4>Site responsivo</h4>
@@ -50,11 +51,11 @@ function Reasons() {
         </div>
 
         <div className="col s12 m6 l6 reason">
-          <div className="col s3 m2 l2 imgReason">
-            <img className="responsive-img" src={Chat} alt="" />
+          <div className="col s3 m3 l2 imgReason">
+            <img className="responsive-img" src={Chat} alt="Dê a sua opinião" />
           </div>
           <div className="col s9 m9 l9">
-            <h4>Dar sua opnião</h4>
+            <h4>Dê a sua opinião</h4>
             <p>
               Você pode dar o seu feedback sobre o jogo com uma determinada nota. Ajudando assim, outros usuários a saber se o jogo é legal. 
             </p>
@@ -62,8 +63,8 @@ function Reasons() {
         </div>
 
         <div className="col s12 m6 l6 reason">
-          <div className="col s3 m2 l2 imgReason">
-            <img className="responsive-img" src={Support} alt="" />
+          <div className="col s3 m3 l2 imgReason">
+            <img className="responsive-img" src={Support} alt="Suporte" />
           </div>
           <div className="col s9 m9 l9">
             <h4>Suporte</h4>

@@ -2,6 +2,14 @@
   font-size: 1.5rem;
   text-align: center;
 }
+@media (min-width: 768px) {
+.mockupsBlock{
+  height: 100vh;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
 
 @media (min-width: 1100px) {
   .mockup {

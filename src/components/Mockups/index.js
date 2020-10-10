@@ -31,13 +31,13 @@ function Mockups() {
                   </p>
                </div>
                <div className="col s12 m6 l6">
-                  <img className="responsive-img" src={Mobile} alt="" />
+                  <img className="responsive-img" src={Mobile} alt="Projeto em um celular" />
                </div>
             </div>
 
             <div data-aos='fade-right' className="mockup">
                <div className="col s12 m6 l6">
-                  <img className="responsive-img" src={Notebook} alt="" />
+                  <img className="responsive-img" src={Notebook} alt="Projeto em um Notebook" />
                </div>
                <div className="col s12 m6 l6">
                   <p>
