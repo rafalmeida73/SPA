@@ -4,9 +4,10 @@
 }
 
 .helpBlock h4 {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
   padding: 60px;
+  width: 100%;
 }
 
 .cardHelp {
@@ -39,6 +40,12 @@
 @media (min-width: 768px) {
   .helpBlock {
     min-height: 100vh;
+  }
+
+  .helpBlock h4 {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 60px;
   }
 }
 
