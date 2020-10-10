@@ -23,7 +23,7 @@ function Reasons() {
 
   return (
     <div data-aos='fade-right' className="reasonsBlock" id="reasons">
-      <h3>Essa são as razões para usar o Broken Out</h3>
+      <h3>Essas são as razões para usar o Broken Out</h3>
       <Row className="container">
 
         <div className="col s12 m6 l6 reason">

@@ -18,12 +18,12 @@ function Help() {
 
   return (
     <div data-aos='fade-right' className="helpBlock" id="contact">
-      <h4>Precisa de ajuda?</h4>
+      <h4>Ficou com alguma dúvida?</h4>
       <div className="container">
         <a href="mailto:rafa.santa11@gmail.com">
           <div className="col s12 m12 l12 cardHelp">
             <img className="responsive-img" src={Email} alt="Envie um e-mail para a gente" />
-            <h3 className="black-text">Envie um e-mail para a gente</h3>
+            <h3 className="black-text">Envie um e-mail para a gente!</h3>
             <p className="black-text">Normalmente respondemos dentro de 24 horas.</p>
           </div>
         </a>
