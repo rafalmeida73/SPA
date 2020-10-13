@@ -6,7 +6,7 @@
   justify-content: center;
   align-items: center;
   display: flex;
-   overflow: initial !important;
+  overflow: initial !important;
 }
 
 .robotBlock svg {
@@ -29,6 +29,12 @@
 .headerBlock a:hover,
 .headerBlock a:focus {
   background-color: var(--primary-dark);
+}
+
+@media (max-height: 700px) {
+  .robotBlock {
+    height: auto;
+  }
 }
 
 @media (min-width: 1000px) {
