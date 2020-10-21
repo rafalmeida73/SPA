@@ -57,7 +57,7 @@ function Reasons() {
           <div className="col s9 m9 l9">
             <h4>Dê a sua opinião</h4>
             <p>
-              Você pode dar o seu feedback sobre o jogo com uma determinada nota. Ajudando assim, outros usuários a saber se o jogo é legal. 
+              Você pode dar o seu feedback sobre o jogo com uma determinada nota. Ajudando assim, outros usuários. 
             </p>
           </div>
         </div>
